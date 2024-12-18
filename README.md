@@ -43,9 +43,8 @@ This project serves as a key step in advancing medical diagnosis through artific
 ## Getting Started
 🚀 To get started with this project:
 1. Clone this repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Download the dataset from the link provided and place it in the appropriate directory.
-4. Run the Jupyter notebook file to process data, train the model, and evaluate results.
+2. Download the dataset from the link provided and place it in the appropriate directory.
+3. Run the Jupyter notebook file to process data, train the model, and evaluate results.
 
 ## Contributing
 🙌 Contributions are welcome! To contribute:
